@@ -1,0 +1,3 @@
+[submodule "lib/pykube"]
+	path = lib/pykube
+	url = git@github.com:kelproject/pykube.git
